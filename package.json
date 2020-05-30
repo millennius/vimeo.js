@@ -1,0 +1,12 @@
+{
+  "name": "vimeojs",
+  "version": "0.1.0",
+  "description": "A Node.js library containing Vimeo HTTP APIs",
+  "main": "index.js",
+  "author": "Lucifer",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "tus-js-client": "^2.1.1"
+  }
+}
